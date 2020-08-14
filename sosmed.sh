@@ -91,7 +91,7 @@ elif [[ $secim == 05 || $secim == 5 ]]; then
 clear
 cd
 echo -e'\e[31mKurulum Başladı'
-git clone  https://github.com/TobzCyberTeam/SpamWA
+git clone https://github.com/TobzCyberTeam/SpamWA
 echo -e'\e[31mKurulum Biti'
 cd Bozkurt_noyan
 sleep 1.1
